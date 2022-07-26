@@ -1,4 +1,4 @@
-The repository is a part of course work for CS 395 Selected Topics In Computer Science - FCAI-HU 
+The repository is a part of course work for CS 395 Selected Topics In Computer Science-1 - FCAI-HU 
 
 Contains 4 Machine Learning Models For 2 Difrrent Dataset.
 
